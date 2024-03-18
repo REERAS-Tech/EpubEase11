@@ -4,17 +4,17 @@ version: 1.0.4
 homepage: "https://github.com/Pratima2001/EpubEase"
 
 environment:
-  sdk: '>=3.0.5 <4.0.0'
+  sdk: ">=3.2.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_widget_from_html_core: ^0.10.1
+  flutter_widget_from_html_core: ^0.14.11
   screen_brightness: ^0.2.2
-  epubx: ^3.0.0
-  http: ^1.0.0
-  google_fonts: ^5.1.0     
+  epubx: ^4.0.0
+  http: ^1.2.1
+  google_fonts: ^6.2.1     
   
 
 dev_dependencies:
