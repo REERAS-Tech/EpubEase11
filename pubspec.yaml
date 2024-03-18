@@ -14,7 +14,7 @@ dependencies:
   screen_brightness: ^0.2.2
   epubx: ^4.0.0
   http: 
-  google_fonts: ^6.0.0     
+  google_fonts:      
   
 
 dev_dependencies:
