@@ -13,7 +13,7 @@ dependencies:
   flutter_widget_from_html_core: ^0.14.11
   screen_brightness: ^0.2.2
   epubx: ^4.0.0
-  http: ^1.2.1
+  http: 
   google_fonts: ^6.0.0     
   
 
